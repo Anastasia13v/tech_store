@@ -66,3 +66,4 @@ def test_buy_products(driver, user_randomizer):
     assert actual_result_status == "Pending"
 
 
+
